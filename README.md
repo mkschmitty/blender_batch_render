@@ -12,6 +12,6 @@ To submit to the render farm with qube, use this in the Command field of a cmdra
 
 **blender --background** *path to blender scene* **--python** *path to blender batch script* **--** QB_FRAME_START QB_FRAME_END QB_FRAME_STEP *cpus*
 
-![Image description](link-to-image)
+![](https://github.com/mkschmitty/blender_batch_render/blob/master/blender_qube_submit_example.jpg)
   
 
